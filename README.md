@@ -3,7 +3,7 @@ Warsey's API Source Code
 
 # Media (Images & Videos)
 
-Any media within this code is copyrighted, please replace it with your own if your going to fork this project!
+Any media within this code is copyrighted and is not free to use, please replace it with your own if your going to fork this project!
 
 # License
 
