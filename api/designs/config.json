@@ -1,0 +1,89 @@
+{
+    "gotunisia-red":[
+        {"rgb1": 203, "rgb2": 203, "rgb3": 203}
+    ],
+    "gotunisia-white":[
+        {"rgb1": 203, "rgb2": 203, "rgb3": 203}
+    ],
+    "gotunisia-white2":[
+        {"rgb1": 178, "rgb2": 13, "rgb3": 10}
+    ],
+    "gotunisia-black":[
+        {"rgb1": 176, "rgb2": 130, "rgb3": 49}
+    ],
+    "vamoscostarica":[
+        {"rgb1": 218, "rgb2": 218, "rgb3": 218}
+    ],
+    "gocostarica-red":[
+        {"rgb1": 194, "rgb2": 195, "rgb3": 195}
+    ],
+    "goghana-model1":[
+        {"rgb1": 174, "rgb2": 8, "rgb3": 12}
+    ],
+    "goghana-model2":[
+        {"rgb1": 213, "rgb2": 171, "rgb3": 13}
+    ],
+    "gogermany-model1":[
+        {"rgb1": 8, "rgb2": 8, "rgb3": 9}
+    ],
+    "gogermany-model2":[
+        {"rgb1": 194, "rgb2": 195, "rgb3": 195}
+    ],
+    "gofrance-model1":[
+        {"rgb1": 18, "rgb2": 26, "rgb3": 84}
+    ],
+    "gofrance-model2":[
+        {"rgb1": 220, "rgb2": 221, "rgb3": 220}
+    ],  
+    "gofrance-model3":[
+        {"rgb1": 220, "rgb2": 221, "rgb3": 220}
+    ],
+    "goptg-model1":[
+        {"rgb1": 206, "rgb2": 194, "rgb3": 194}
+    ],
+    "goptg-model2":[
+        {"rgb1": 195, "rgb2": 196, "rgb3": 195}
+    ],
+    "goptg-model3":[
+        {"rgb1": 243, "rgb2": 237, "rgb3": 18}
+    ],
+    "goptg-model4":[
+        {"rgb1": 199, "rgb2": 202, "rgb3": 198}
+    ],
+    "goau-model1":[
+        {"rgb1": 7, "rgb2": 61, "rgb3": 13}
+    ],
+    "goau-model2":[
+        {"rgb1": 7, "rgb2": 61, "rgb3": 13}
+    ],
+    "goau-model3":[
+        {"rgb1": 185, "rgb2": 155, "rgb3": 2}
+    ],
+    "goau-model4":[
+        {"rgb1": 7, "rgb2": 61, "rgb3": 13}
+    ],
+    "goau-model5":[
+        {"rgb1": 7, "rgb2": 61, "rgb3": 13}
+    ],
+    "gojapan-model1":[
+        {"rgb1": 190, "rgb2": 192, "rgb3": 198}
+    ],
+    "gojapan-model2":[
+        {"rgb1": 190, "rgb2": 192, "rgb3": 198}
+    ],
+    "gojapan-model3":[
+        {"rgb1": 190, "rgb2": 192, "rgb3": 198}
+    ],
+    "gojapan-model4":[
+        {"rgb1": 202, "rgb2": 202, "rgb3": 202}
+    ],
+    "gojapan-model5":[
+        {"rgb1": 14, "rgb2": 21, "rgb3": 71}
+    ],
+    "gomexico-model1":[
+        {"rgb1": 199, "rgb2": 197, "rgb3": 198}
+    ],
+    "gomexico-model2":[
+        {"rgb1": 199, "rgb2": 197, "rgb3": 198}
+    ]              
+}
