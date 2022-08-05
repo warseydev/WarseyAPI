@@ -1,7 +1,11 @@
 # WarseyAPI
 Warsey's API Source Code
 
-#License
+# Media (Images & Videos)
+
+Any media within this code is copyrighted, please replace it with your own if your going to fork this project!
+
+# License
 
 Copyright (C) 2022 akatiggerx04
 
