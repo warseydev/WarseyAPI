@@ -1,7 +1,6 @@
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
-from langdetect import detect
 import random, string
 import os, json
 
@@ -25,6 +24,12 @@ def loadcolors(template):
     colors = {"rgb1": rgb1, "rgb2": rgb2, "rgb3": rgb3}
     return colors
 
+def checkarabic(text):
+	if "غ" in text or "ظ" in text or "ص" in text or "ق" in text or "ر" in text or "ش" in text or "ت" in text or "ث" in text or "خ" in text or "ذ" in text or "ض" in text or "ح" in text or "ط" in text or "ي" in text or "ك" in text or "ل" in text or "م" in text or "ن" in text or "س" in text or "ع" in text or "ف" in text or "ب" in text or "ج" in text or "و" in text or "د" in text or "ه" in text or "ء" in text or "ا‎" in text:
+		return True
+	else:
+		return False
+
 def create(template, text, rgb1, rgb2, rgb3):
     deletetmp()
     width, height = (1024,1024)
@@ -34,7 +39,7 @@ def create(template, text, rgb1, rgb2, rgb3):
     else:
         rgb1, rgb2, rgb3 = (int(rgb1), int(rgb2), int(rgb3))
     img = Image.open(f'designs/{template}.jpg')
-    if detect(text) == "ar":
+    if checkarabic(text):
         myFont = ImageFont.truetype('arabic.ttf', 65)
     else:
         myFont = ImageFont.truetype('BebasNeue-Regular.ttf', 65)
