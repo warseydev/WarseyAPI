@@ -2,6 +2,7 @@ from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 import arabic_reshaper
+from bidi.algorithm import get_display
 import random, string
 import os, json
 
@@ -43,7 +44,7 @@ def create(template, text, rgb1, rgb2, rgb3):
     if checkarabic(text):
         myFont = ImageFont.truetype('arabic.ttf', 50)
         text = arabic_reshaper.reshape(text)
-        print(text)
+        text = get_display(text)   
     else:
         myFont = ImageFont.truetype('BebasNeue-Regular.ttf', 65)
     draw = ImageDraw.Draw(img)
