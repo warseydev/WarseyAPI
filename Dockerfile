@@ -1,5 +1,5 @@
 FROM alpine:latest
-COPY api /usr/share/warseyapi/
+COPY src /usr/share/warseyapi/
 
 EXPOSE 5000
 
@@ -7,6 +7,6 @@ WORKDIR /usr/share/warseyapi/
 
 RUN apk add --update python3 py-pip 
 
-RUN pip3 install flask waitress pillow
+RUN pip3 install flask waitress pillow langdetect
 
 ENTRYPOINT python3 main.py

@@ -1,6 +1,7 @@
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
+from langdetect import detect
 import random, string
 import os, json
 
@@ -33,7 +34,10 @@ def create(template, text, rgb1, rgb2, rgb3):
     else:
         rgb1, rgb2, rgb3 = (int(rgb1), int(rgb2), int(rgb3))
     img = Image.open(f'designs/{template}.jpg')
-    myFont = ImageFont.truetype('BebasNeue-Regular.ttf', 65)
+    if detect(text) == "ar":
+        myFont = ImageFont.truetype('arabic.ttf', 65)
+    else:
+        myFont = ImageFont.truetype('BebasNeue-Regular.ttf', 65)
     draw = ImageDraw.Draw(img)
     draw.text((width/2, 250), text, font=myFont, anchor="mm", fill =(rgb1, rgb2, rgb3))
     filename = randomword(12)
