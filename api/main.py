@@ -1,9 +1,12 @@
 from flask import Flask, request, redirect, send_file, render_template
 from waitress import serve
-import io
-import tdesign
+import io, os
+import designer
 
 app = Flask(__name__)
+
+if os.path.exists("./tmp") != True:
+    os.mkdir("./tmp") 
 
 @app.route("/api/design/tshirt")
 def tshirt():
