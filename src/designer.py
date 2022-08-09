@@ -1,7 +1,6 @@
 from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
-from bidi.algorithm import get_display
 import arabic_reshaper
 import random, string
 import os, json
