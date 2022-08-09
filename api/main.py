@@ -26,7 +26,7 @@ def tshirt():
     if formattedtext.isalpha() != True:
         return send_file("errors/alpha.webp")
     try:
-        filename = tdesign.create(template, text, rgb1, rgb2, rgb3)
+        filename = designer.create(template, text, rgb1, rgb2, rgb3)
     except:
        return send_file("errors/error.webp")
     return send_file(f"tmp/{filename}.jpg", mimetype='image/jpeg', download_name="warsey-tshirt.jpg", as_attachment=True)
