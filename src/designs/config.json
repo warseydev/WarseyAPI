@@ -136,5 +136,14 @@
     ],
     "gobelg-model3":[
         {"rgb1": 203, "rgb2": 195, "rgb3": 195}
+    ],
+    "gosa-model1":[
+        {"rgb1": 36, "rgb2": 77, "rgb3": 40}
+    ],
+    "gosa-model2":[
+        {"rgb1": 203, "rgb2": 208, "rgb3": 202}
+    ],
+    "gosa-model3":[
+        {"rgb1": 203, "rgb2": 208, "rgb3": 202}
     ]
 }
