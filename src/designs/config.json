@@ -85,5 +85,17 @@
     ],
     "gomexico-model2":[
         {"rgb1": 199, "rgb2": 197, "rgb3": 198}
-    ]              
+    ],
+    "gocanada-model1":[
+        {"rgb1": 207, "rgb2": 207, "rgb3": 207}
+    ],
+    "gocanada-model2":[
+        {"rgb1": 207, "rgb2": 207, "rgb3": 207}
+    ],
+    "gocanada-model3":[
+        {"rgb1": 171, "rgb2": 7, "rgb3": 7}
+    ],
+    "gocanada-model4":[
+        {"rgb1": 171, "rgb2": 7, "rgb3": 7}
+    ]
 }
