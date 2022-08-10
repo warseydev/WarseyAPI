@@ -157,5 +157,14 @@
     ],
     "gospain-model4":[
         {"rgb1": 192, "rgb2": 191, "rgb3": 181}
+    ],
+    "goserbia-model1":[
+        {"rgb1": 202, "rgb2": 202, "rgb3": 203}
+    ],
+    "goserbia-model2":[
+        {"rgb1": 202, "rgb2": 202, "rgb3": 203}
+    ],
+    "goserbia-model3":[
+        {"rgb1": 179, "rgb2": 22, "rgb3": 26}
     ]
 }
