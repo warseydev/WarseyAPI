@@ -184,5 +184,23 @@
     ],
     "gokorea-model1":[
         {"rgb1": 219, "rgb2": 219, "rgb3": 219}
+    ],
+    "goarg-model1":[
+        {"rgb1": 214, "rgb2": 214, "rgb3": 214}
+    ],
+    "goarg-model2":[
+        {"rgb1": 7, "rgb2": 85, "rgb3": 149}
+    ],
+    "gowales-model1":[
+        {"rgb1": 207, "rgb2": 207, "rgb3": 207}
+    ],
+    "gowales-model2":[
+        {"rgb1": 192, "rgb2": 192, "rgb3": 192}
+    ],
+    "gowales-model3":[
+        {"rgb1": 205, "rgb2": 205, "rgb3": 205}
+    ],
+    "gowales-model4":[
+        {"rgb1": 14, "rgb2": 124, "rgb3": 29}
     ]
 }
