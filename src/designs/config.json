@@ -112,5 +112,11 @@
     ],
     "gobz-model5":[
         {"rgb1": 215, "rgb2": 215, "rgb3": 215}
+    ],
+    "gonl-model1":[
+        {"rgb1": 201, "rgb2": 201, "rgb3": 201}
+    ],
+    "gonl-model2":[
+        {"rgb1": 201, "rgb2": 201, "rgb3": 201}
     ]
 }
