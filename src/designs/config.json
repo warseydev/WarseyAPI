@@ -166,5 +166,20 @@
     ],
     "goserbia-model3":[
         {"rgb1": 179, "rgb2": 22, "rgb3": 26}
+    ],
+    "gocroatia-model1":[
+        {"rgb1": 31, "rgb2": 30, "rgb3": 95}
+    ],
+    "gocroatia-model2":[
+        {"rgb1": 31, "rgb2": 30, "rgb3": 95}
+    ],
+    "gocroatia-model3":[
+        {"rgb1": 195, "rgb2": 196, "rgb3": 201}
+    ],
+    "gocroatia-model4":[
+        {"rgb1": 195, "rgb2": 196, "rgb3": 201}
+    ],
+    "gocroatia-model5":[
+        {"rgb1": 31, "rgb2": 30, "rgb3": 95}
     ]
 }
