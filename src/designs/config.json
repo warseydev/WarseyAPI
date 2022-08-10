@@ -181,5 +181,8 @@
     ],
     "gocroatia-model5":[
         {"rgb1": 31, "rgb2": 30, "rgb3": 95}
+    ],
+    "gokorea-model1":[
+        {"rgb1": 219, "rgb2": 219, "rgb3": 219}
     ]
 }
