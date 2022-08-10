@@ -118,5 +118,14 @@
     ],
     "gonl-model2":[
         {"rgb1": 201, "rgb2": 201, "rgb3": 201}
+    ],
+    "gousa-model1":[
+        {"rgb1": 165, "rgb2": 170, "rgb3": 179}
+    ],
+    "gousa-model2":[
+        {"rgb1": 19, "rgb2": 23, "rgb3": 60}
+    ],
+    "gousa-model3":[
+        {"rgb1": 195, "rgb2": 199, "rgb3": 201}
     ]
 }
