@@ -97,5 +97,20 @@
     ],
     "gocanada-model4":[
         {"rgb1": 171, "rgb2": 7, "rgb3": 7}
+    ],
+    "gobz-model1":[
+        {"rgb1": 6, "rgb2": 61, "rgb3": 19}
+    ],
+    "gobz-model2":[
+        {"rgb1": 6, "rgb2": 61, "rgb3": 19}
+    ],
+    "gobz-model3":[
+        {"rgb1": 201, "rgb2": 174, "rgb3": 10}
+    ],
+    "gobz-model4":[
+        {"rgb1": 25, "rgb2": 71, "rgb3": 18}
+    ],
+    "gobz-model5":[
+        {"rgb1": 187, "rgb2": 158, "rgb3": 7}
     ]
 }
