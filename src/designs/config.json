@@ -145,5 +145,17 @@
     ],
     "gosa-model3":[
         {"rgb1": 203, "rgb2": 208, "rgb3": 202}
+    ],
+    "gospain-model1":[
+        {"rgb1": 160, "rgb2": 19, "rgb3": 3}
+    ],
+    "gospain-model2":[
+        {"rgb1": 192, "rgb2": 191, "rgb3": 181}
+    ],
+    "gospain-model3":[
+        {"rgb1": 192, "rgb2": 191, "rgb3": 181}
+    ],
+    "gospain-model4":[
+        {"rgb1": 192, "rgb2": 191, "rgb3": 181}
     ]
 }
