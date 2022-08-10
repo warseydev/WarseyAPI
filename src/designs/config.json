@@ -214,5 +214,11 @@
     ],
     "goiran-model4":[
         {"rgb1": 210, "rgb2": 210, "rgb3": 210}
+    ],
+    "goeng-model1":[
+        {"rgb1": 158, "rgb2": 8, "rgb3": 9}
+    ],
+    "goeng-model2":[
+        {"rgb1": 207, "rgb2": 207, "rgb3": 207}
     ]
 }
