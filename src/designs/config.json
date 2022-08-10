@@ -127,5 +127,14 @@
     ],
     "gousa-model3":[
         {"rgb1": 195, "rgb2": 199, "rgb3": 201}
+    ],
+    "gobelg-model1":[
+        {"rgb1": 203, "rgb2": 195, "rgb3": 195}
+    ],
+    "gobelg-model2":[
+        {"rgb1": 28, "rgb2": 28, "rgb3": 9}
+    ],
+    "gobelg-model3":[
+        {"rgb1": 203, "rgb2": 195, "rgb3": 195}
     ]
 }
