@@ -202,5 +202,17 @@
     ],
     "gowales-model4":[
         {"rgb1": 14, "rgb2": 124, "rgb3": 29}
+    ],
+    "goiran-model1":[
+        {"rgb1": 168, "rgb2": 7, "rgb3": 7}
+    ],
+    "goiran-model2":[
+        {"rgb1": 12, "rgb2": 91, "rgb3": 21}
+    ],
+    "goiran-model3":[
+        {"rgb1": 166, "rgb2": 6, "rgb3": 6}
+    ],
+    "goiran-model4":[
+        {"rgb1": 210, "rgb2": 210, "rgb3": 210}
     ]
 }
