@@ -185,6 +185,15 @@
     "gokorea-model1":[
         {"rgb1": 219, "rgb2": 219, "rgb3": 219}
     ],
+    "gokorea-model2":[
+        {"rgb1": 210, "rgb2": 210, "rgb3": 209}
+    ],
+    "gokorea-model3":[
+        {"rgb1": 210, "rgb2": 210, "rgb3": 210}
+    ],
+    "gokorea-model4":[
+        {"rgb1": 8, "rgb2": 27, "rgb3": 101}
+    ],
     "goarg-model1":[
         {"rgb1": 214, "rgb2": 214, "rgb3": 214}
     ],
