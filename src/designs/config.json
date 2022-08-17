@@ -229,5 +229,59 @@
     ],
     "goeng-model2":[
         {"rgb1": 207, "rgb2": 207, "rgb3": 207}
+    ],
+    "godk-model1":[
+        {"rgb1": 35, "rgb2": 35, "rgb3": 35}
+    ],
+    "godk-model2":[
+        {"rgb1": 35, "rgb2": 35, "rgb3": 35}
+    ],
+    "goecuador-model1":[
+        {"rgb1": 6, "rgb2": 34, "rgb3": 105}
+    ],
+    "goecuador-model2":[
+        {"rgb1": 207, "rgb2": 207, "rgb3": 207}
+    ],
+    "gomorocco-model1":[
+        {"rgb1": 194, "rgb2": 194, "rgb3": 194}
+    ],
+    "gomorocco-model2":[
+        {"rgb1": 13, "rgb2": 123, "rgb3": 36}
+    ],
+    "gomorocco-model3":[
+        {"rgb1": 202, "rgb2": 202, "rgb3": 202}
+    ],
+    "goswiss-model1":[
+        {"rgb1": 184, "rgb2": 55, "rgb3": 55}
+    ],
+    "goswiss-model2":[
+        {"rgb1": 211, "rgb2": 211, "rgb3": 211}
+    ],
+    "goswiss-model3":[
+        {"rgb1": 11, "rgb2": 11, "rgb3": 11}
+    ],
+    "gocameroon-model1":[
+        {"rgb1": 203, "rgb2": 164, "rgb3": 9}
+    ],
+    "gocameroon-model2":[
+        {"rgb1": 167, "rgb2": 12, "rgb3": 15}
+    ],
+    "gocameroon-model3":[
+        {"rgb1": 209, "rgb2": 209, "rgb3": 209}
+    ],
+    "goqatar-model1":[
+        {"rgb1": 204, "rgb2": 204, "rgb3": 204}
+    ],
+    "goqatar-model2":[
+        {"rgb1": 159, "rgb2": 158, "rgb3": 158}
+    ],
+    "gosenegal-model1":[
+        {"rgb1": 11, "rgb2": 69, "rgb3": 23}
+    ],
+    "gosenegal-model2":[
+        {"rgb1": 180, "rgb2": 10, "rgb3": 13}
+    ],
+    "gopoland-model1":[
+        {"rgb1": 0, "rgb2": 0, "rgb3": 0}
     ]
 }
